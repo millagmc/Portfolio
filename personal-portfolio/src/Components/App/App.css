@@ -1,0 +1,19 @@
+.app{
+  margin-left: 10px;
+}
+
+.header{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.bar>ul{
+  margin: 0px;
+  padding: 0;
+  display: flex;
+  gap: 10px;
+}
+.bar>ul>li{
+  list-style-type: none;
+ }
+
